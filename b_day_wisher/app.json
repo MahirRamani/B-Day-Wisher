@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9dfac856-d8d9-42d6-b9bf-4d3987bb1d23"
+      }
+    },
+    "android": {
+      "package": "com.mahir_expo.b_day_wisher"
+    }
+  }
+}
